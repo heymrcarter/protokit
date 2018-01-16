@@ -1,0 +1,27 @@
+{
+  "name": "protokit",
+  "version": "1.0.0",
+  "description": "A starting point for creating a static HTML/CSS/JS site",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.humana.io/tcarter/protokit"
+  },
+  "keywords": [
+    "front-end",
+    "html",
+    "css",
+    "javascript",
+    "static",
+    "prototype"
+  ],
+  "author": "Tom Carter",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.23.5",
+    "node-sass": "^4.7.2"
+  }
+}
