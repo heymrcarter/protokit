@@ -14,19 +14,19 @@ A starting point for creating a static HTML/CSS/JS site
 $ git clone http://git.humana.com/tcarter/protokit
 ```
 
-1. Install dependencies
+2. Install dependencies
 
 ```shell
 $ npm install
 ```
 
-1. Setup ProtoKit for your project
+3. Setup ProtoKit for your project
 
 ```shell
 $ npm run setup
 ```
 
-1. Run your project
+4. Run your project
 
 ```shell
 $ npm start
