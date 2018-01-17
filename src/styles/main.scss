@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+  font-family: 'FSHumanaLight';
+  src: url("~/static/fonts/fs_humana-light-webfont.woff2") format("woff2"), url("~/static/fonts/fs_humana-light-webfont.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FSHumanaRegular';
+  src: url("~/static/fonts/fs_humana-regular-webfont.woff2") format("woff2"), url("~/static/fonts/fs_humana-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FSHumanaBold';
+  src: url("~/static/fonts/fs_humana-bold-webfont.woff2") format("woff2"), url("~/static/fonts/fs_humana-bold-webfont.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+.humana-regular {
+  font-family: FSHumanaRegular, Arial, Helvetica, sans-serif;
+}
+
+.humana-bold {
+  font-family: FSHumanaBold, Arial, Helvetica, sans-serif;
+}
+
+.humana-light {
+  font-family: FSHumanaLight, Arial, Helvetica, sans-serif;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  align-items: center;
+
+  .column {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin: auto 5px;
+  }
+}
+
+.flex-zero {
+  flex: 0;
+}
