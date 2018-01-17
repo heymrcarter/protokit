@@ -2,7 +2,7 @@
 
 A starting point for creating a static HTML/CSS/JS site
 
-> ProtoKit requires Node.js. Before starting with we recommend you [download the latest Node.js LTS for you system](https://nodejs.org/en/download/)
+> ProtoKit requires Node.js. Before starting with we recommend you [download the latest Node.js LTS for your system](https://nodejs.org/en/download/)
 
 ![Node.js downloads page](./images/node-downloads.png)
 
