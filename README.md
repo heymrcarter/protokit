@@ -11,7 +11,7 @@ A starting point for creating a static HTML/CSS/JS site
 1. Clone this repository
 
 ```shell
-$ git clone http://git.humana.com/tcarter/protokit
+$ git clone https://github.com/heymrcarter/protokit
 ```
 
 2. Navigate to folder
